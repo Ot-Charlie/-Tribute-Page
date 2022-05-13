@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+}
+    #title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+
+  .box{
+    background-color:azure;
+    padding: 30px;
+  }
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+
+#image {
+    max-width: 30%;
+    height: auto;
+    display: block;
+  }
+
+  @media only screen and (min-width:1200px)
+  {
+ .font {
+    padding: 0px 200px 15px 200px;
+        }
+  }
